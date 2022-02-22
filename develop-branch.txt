@@ -6,3 +6,5 @@ feature bd works
 some name
 
 sme test
+feature b works
+
