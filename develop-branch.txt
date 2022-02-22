@@ -9,3 +9,4 @@ sme test
 
 
 test
+feature b works
